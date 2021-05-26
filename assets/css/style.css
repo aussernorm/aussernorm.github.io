@@ -944,7 +944,7 @@ section {
 
 #testimonials .testimonials-content::before {
   color: #88af42;
-  content: "";
+  content: "“";
   display: inline-block;
   font: 70px/1 FontAwesome;
   position: absolute;
